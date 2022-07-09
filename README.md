@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ramkumar-ark
-- 👀 I’m interested in machine learning projects
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Ram Kumar @ramkumar-ark
+- 👀 I’m interested in Web Development and Machine learning projects.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on web development projects using javascript.
 - 📫 How to reach me - ramgambit@gmail.com
 
 <!---
